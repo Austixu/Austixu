@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Austixu
-- 👀 I’m interested in C/C++ and Win32api
-- 🌱 I’m currently learning Win32api
-- 💞️ I’m looking to collaborate on win32api frame和中文C语言
+- 👀 I’m interested in unity and C#
+- 🌱 I’m currently learning unity
+- 💞️ I’m looking to collaborate on MCLauncher
 - 📫 How to reach me： littleast@outlook.com
 
 <!---
